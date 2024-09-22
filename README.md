@@ -12,7 +12,7 @@ PlanetCalc is currently in alpha and was last updated on April 24 of 2024.
 # Author
 Jackson Stephens
 # Installation/Use
-PlanetCalc is very easy to use. Simply load the .mlx file found in the .zip file in MATLAB and click run. The program will ask you to choose a planet from a pop up window and will also ask you if you'd like to save your data to your desktop. 
+PlanetCalc is very easy to use. Simply load the .mlx file in MATLAB and click run. The program will ask you to choose a planet from a pop up window and will also ask you if you'd like to save your data to your desktop. 
 
 The log file will be created in whatever folder your MATLAB is currently indexed into but you can also choose to save it to the desktop to find it more easily. 
 
